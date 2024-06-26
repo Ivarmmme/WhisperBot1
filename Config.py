@@ -16,5 +16,5 @@ else:
     # Fill the Values
     API_ID = 1623073
     API_HASH = "a6f2f0a7b2022f8ca7717d9101c5ff5c"
-    BOT_TOKEN = "7450280328:AAF67IlqVuC-uWy6qpxFLAy4_InY8QKJPLM"
-    DATABASE_URL = ""
+    BOT_TOKEN = "7450280328:AAHdx_qn1-imOcirYLiqmgDalepvb_EyDYQ"
+    DATABASE_URL = "postgresql://whisperbot_iv:ivarmone009@localhost:5432/whisper_ivbot"
